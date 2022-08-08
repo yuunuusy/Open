@@ -34,4 +34,4 @@ ornek_graph = {
     "D": {"C": 1, "E": 7},
 
 }
-print(mesafe_olc(ornek_graph, 'C'))
+print(mesafe_olc(ornek_graph, 'E'))
